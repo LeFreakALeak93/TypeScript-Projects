@@ -1,4 +1,4 @@
-import "./file4.html";
+import "./space.html";
 
 let KEY_SPACE = false; // 32
 let KEY_UP = false; // 38

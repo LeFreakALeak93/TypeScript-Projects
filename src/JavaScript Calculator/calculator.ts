@@ -1,4 +1,4 @@
-import "./file2.html";
+import "./calculator.html";
 
 function appendOperation(operation) {
     document.getElementById('resultArea').innerHTML += operation;

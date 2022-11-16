@@ -1,4 +1,4 @@
-import "./file3.html";
+import "./snake.html";
 
 let canvas = document.getElementById('canvas') as HTMLCanvasElement; // Initalisieren der Variablen
 let ctx = canvas.getContext('2d');
